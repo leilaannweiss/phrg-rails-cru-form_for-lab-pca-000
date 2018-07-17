@@ -38,6 +38,7 @@ group :development, :test do
   gem "capybara"
   gem "database_cleaner"
   gem "rspec-rails"
+  gem "rubocop", "0.58.1"
 end
 
 group :development do
