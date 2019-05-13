@@ -1,7 +1,0 @@
-tags:
-  - a tag
-languages:
-  - a language
-resources: 
-  - 0
-parent_template: git@github.com:learn-co-curriculum/rails-cru-form_for-lab.git
